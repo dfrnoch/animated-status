@@ -1,7 +1,7 @@
 # Discord Status Animator
 ## Usage:
-3. Configure message, token, emoji and time in animated.py
-1. Open install.bat
+1. Configure message, token, emoji and time in animated.py
+2. Open install.bat
 3. Open start.bat
 
 
