@@ -1,8 +1,16 @@
-# Discord Status Animator
+# 🧶 Discord custom animated status 🧶
+Animated status displayer. You can set speed, emoji and text
+
+![Showcase](https://wheres-my-ta.co/CFC3a5.gif)
+
 ## Usage:
-1. Configure message, token, emoji and time in animated.py
+1. Configure settings in `animated.py`
 2. Open install.bat
 3. Open start.bat
+4. All set :)
+
+## Settings:
+![Settings Showcase](https://wheres-my-ta.co/x4n5mR.png)
 
 
-WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you
+`WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you`
