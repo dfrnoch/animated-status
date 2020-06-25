@@ -1,6 +1,7 @@
 # 🧶 Discord custom animated status 🧶
 Animated status displayer. You can set speed, emoji and text
 
+## Showcase:
 ![Showcase](https://wheres-my-ta.co/CFC3a5.gif)
 
 ## Usage:
