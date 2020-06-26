@@ -1,5 +1,5 @@
 <h1 align="center"> 🧶 Discord custom animated status 🧶 </h1>
-<h4 align="center">Animated status displayer. You can set speed, emoji and text</h4>
+<h3 align="center">Animated status displayer. You can set speed, emoji and text</h3>
 
 
 ## Usage:
