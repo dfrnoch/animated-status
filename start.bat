@@ -1,4 +1,4 @@
 @echo off
-title Animated Status
+title Discord Animated Status
 py animated.py
 pause
