@@ -9,10 +9,12 @@ emoji = "😋" # Emoji like this: 😋 (Leave blank for none)
 speed = 0.9 # Speed of animating, recommended 0.5 - 1.5 seconds (I tried it for like half hour for 0.5s and its not ratelimiting or something)
 
 
+
 # Text
 print("")
 print("")
 print("Animating..")
+
 
 
 
