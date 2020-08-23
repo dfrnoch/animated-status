@@ -1,4 +1,4 @@
-<h1 align="center"> 🧶 Discord custom animated status 🧶 </h1>
+<h1 align="center"> **🧶 Discord custom animated status 🧶** </h1>
 <h2 align="center">Animated status displayer. You can set speed, emoji and text</h2>
 <h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
 
