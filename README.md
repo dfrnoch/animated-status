@@ -3,7 +3,7 @@
 <h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
 
 ## Usage:
-1. Configure settings in `animated.py`
+1. Configure settings in `config.json`
 2. Open install.bat
 3. Open start.bat
 4. All set :)
